@@ -12,7 +12,7 @@
   <p align="center">
     My 'tiny-scale' implementation of decoder (ChatGPT)
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Description/Docs</strong></a>
+    <a href="https://github.com/CptNemo0/MyFirstTransformer"><strong>Description/Docs</strong></a>
     <br />
     <br />
   </p>
