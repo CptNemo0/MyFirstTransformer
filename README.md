@@ -38,7 +38,7 @@ It can be trained on .txt files. This is very primitive approach, nontheless it 
 
 ### Built With
 
-I used Python, and it's machine learning library PyTorch, although it's important to notice, that i didn't use stock implmentation for everything, mainly so I could get more expirience and a better understanding.
+I used Python, and it's machine learning library PyTorch, although it's important to notice, that i didn't use stock implmentation for everything, mainly so I could get more experience and a better understanding.
 
 * [![Python][Python]][Python-url]
 * [![PyTorch][Pytorch]][Pytorch-url]
