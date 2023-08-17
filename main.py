@@ -15,11 +15,8 @@ def count_parameters(model):
     return sum(p.numel() for p in model.parameters() if p.requires_grad)
 
 def main():
-
-    # Specify the path to your YAML file
     path = 'settings_files\\leia-s.yaml'
 
-    # Read the YAML file
     with open(path, 'r') as yaml_file:
         data = yaml.safe_load(yaml_file)
 
