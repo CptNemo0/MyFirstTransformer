@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
 
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -105,6 +110,17 @@ Project Link: https://github.com/CptNemo0/MyFirstTransformer
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+[stars-shield]: https://img.shields.io/github/stars/CptNemo0/MyFirstTransformer.svg?style=for-the-badge
+[stars-url]: https://github.com/CptNemo0/MyFirstTransformer/stargazers
+
+[issues-shield]: https://img.shields.io/github/issues/CptNemo0/MyFirstTransformer.svg?style=for-the-badge
+[issues-url]: https://github.com/CptNemo0/MyFirstTransformer/issues
+
+[license-shield]: https://img.shields.io/github/license/CptNemo0/MyFirstTransformer.svg?style=for-the-badge
+[license-url]: https://github.com/CptNemo0/MyFirstTransformer/LICENSE.txt
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/pawe%C5%82-stus-11884a277/
 
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/downloads/release/python-3114/
