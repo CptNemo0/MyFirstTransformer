@@ -42,7 +42,7 @@ I used Python, and it's machine learning library PyTorch, although it's importan
 
 * [![Python][Python]][Python-url]
 * [![PyTorch][Pytorch]][Pytorch-url]
-* [⏳]([TikToken-url]) tiktoken
+* [⏳tiktoken](https://github.com/openai/tiktoken)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
